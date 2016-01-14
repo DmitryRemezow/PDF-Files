@@ -29,6 +29,14 @@
 				<rdf:li xml:lang="x-default">SomeLangText</rdf:li>
 				<rdf:li xml:lang="en-us">SomeLangText</rdf:li>
 				<rdf:li xml:lang="fr-fr">SomeLangText</rdf:li>
+				<rdf:li xml:lang="zh-Hans-MO">SomeLangText</rdf:li>
+				<rdf:li xml:lang="zh-wuu">SomeLangText</rdf:li>
+				<rdf:li xml:lang="grv">SomeLangText</rdf:li>
+				<rdf:li xml:lang="ig">SomeLangText</rdf:li>
+				<rdf:li xml:lang="es-005">SomeLangText</rdf:li>
+				<rdf:li xml:lang="de-CH-1901">SomeLangText</rdf:li>		
+				<rdf:li xml:lang="de-DE-u-co-phonebk">SomeLangText</rdf:li>		
+				<rdf:li xml:lang="en-US-x-twain">SomeLangText</rdf:li>		
 			</rdf:Alt>
 		</fs:langprop>
 	</rdf:Description>
