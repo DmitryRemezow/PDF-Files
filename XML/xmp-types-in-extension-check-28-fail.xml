@@ -28,6 +28,144 @@
 								<pdfaProperty:description>Desc - Colorant value type</pdfaProperty:description>
 								<pdfaProperty:name>colprop3</pdfaProperty:name>
 								<pdfaProperty:valueType>Colorant</pdfaProperty:valueType>
+							</rdf:li>	
+							<rdf:li rdf:parseType="Resource">
+								<pdfaProperty:category>internal</pdfaProperty:category>
+								<pdfaProperty:description>Desc - Colorant value type</pdfaProperty:description>
+								<pdfaProperty:name>colprop4</pdfaProperty:name>
+								<pdfaProperty:valueType>Colorant</pdfaProperty:valueType>
+							</rdf:li>
+							<rdf:li rdf:parseType="Resource">
+								<pdfaProperty:category>internal</pdfaProperty:category>
+								<pdfaProperty:description>Desc - Colorant value type</pdfaProperty:description>
+								<pdfaProperty:name>colprop5</pdfaProperty:name>
+								<pdfaProperty:valueType>Colorant</pdfaProperty:valueType>
+							</rdf:li>
+							<rdf:li rdf:parseType="Resource">
+								<pdfaProperty:category>internal</pdfaProperty:category>
+								<pdfaProperty:description>Desc - Colorant value type</pdfaProperty:description>
+								<pdfaProperty:name>colprop6</pdfaProperty:name>
+								<pdfaProperty:valueType>Colorant</pdfaProperty:valueType>
+							</rdf:li>
+							<rdf:li rdf:parseType="Resource">
+								<pdfaProperty:category>internal</pdfaProperty:category>
+								<pdfaProperty:description>Desc - Colorant value type</pdfaProperty:description>
+								<pdfaProperty:name>colprop7</pdfaProperty:name>
+								<pdfaProperty:valueType>Colorant</pdfaProperty:valueType>
+							</rdf:li>
+							<rdf:li rdf:parseType="Resource">
+								<pdfaProperty:category>internal</pdfaProperty:category>
+								<pdfaProperty:description>Desc - Colorant value type</pdfaProperty:description>
+								<pdfaProperty:name>colprop8</pdfaProperty:name>
+								<pdfaProperty:valueType>Colorant</pdfaProperty:valueType>
+							</rdf:li>
+							<rdf:li rdf:parseType="Resource">
+								<pdfaProperty:category>internal</pdfaProperty:category>
+								<pdfaProperty:description>Desc - Colorant value type</pdfaProperty:description>
+								<pdfaProperty:name>colprop9</pdfaProperty:name>
+								<pdfaProperty:valueType>Colorant</pdfaProperty:valueType>
+							</rdf:li>
+							<rdf:li rdf:parseType="Resource">
+								<pdfaProperty:category>internal</pdfaProperty:category>
+								<pdfaProperty:description>Desc - Colorant value type</pdfaProperty:description>
+								<pdfaProperty:name>colprop10</pdfaProperty:name>
+								<pdfaProperty:valueType>Colorant</pdfaProperty:valueType>
+							</rdf:li>
+							<rdf:li rdf:parseType="Resource">
+								<pdfaProperty:category>internal</pdfaProperty:category>
+								<pdfaProperty:description>Desc - Colorant value type</pdfaProperty:description>
+								<pdfaProperty:name>colprop11</pdfaProperty:name>
+								<pdfaProperty:valueType>Colorant</pdfaProperty:valueType>
+							</rdf:li>
+							<rdf:li rdf:parseType="Resource">
+								<pdfaProperty:category>internal</pdfaProperty:category>
+								<pdfaProperty:description>Desc - Colorant value type</pdfaProperty:description>
+								<pdfaProperty:name>colprop12</pdfaProperty:name>
+								<pdfaProperty:valueType>Colorant</pdfaProperty:valueType>
+							</rdf:li>
+							<rdf:li rdf:parseType="Resource">
+								<pdfaProperty:category>internal</pdfaProperty:category>
+								<pdfaProperty:description>Desc - Colorant value type</pdfaProperty:description>
+								<pdfaProperty:name>colprop13</pdfaProperty:name>
+								<pdfaProperty:valueType>Colorant</pdfaProperty:valueType>
+							</rdf:li>
+							<rdf:li rdf:parseType="Resource">
+								<pdfaProperty:category>internal</pdfaProperty:category>
+								<pdfaProperty:description>Desc - Colorant value type</pdfaProperty:description>
+								<pdfaProperty:name>colprop14</pdfaProperty:name>
+								<pdfaProperty:valueType>Colorant</pdfaProperty:valueType>
+							</rdf:li>
+							<rdf:li rdf:parseType="Resource">
+								<pdfaProperty:category>internal</pdfaProperty:category>
+								<pdfaProperty:description>Desc - Colorant value type</pdfaProperty:description>
+								<pdfaProperty:name>colprop15</pdfaProperty:name>
+								<pdfaProperty:valueType>Colorant</pdfaProperty:valueType>
+							</rdf:li>
+							<rdf:li rdf:parseType="Resource">
+								<pdfaProperty:category>internal</pdfaProperty:category>
+								<pdfaProperty:description>Desc - Colorant value type</pdfaProperty:description>
+								<pdfaProperty:name>colprop16</pdfaProperty:name>
+								<pdfaProperty:valueType>Colorant</pdfaProperty:valueType>
+							</rdf:li>
+							<rdf:li rdf:parseType="Resource">
+								<pdfaProperty:category>internal</pdfaProperty:category>
+								<pdfaProperty:description>Desc - Colorant value type</pdfaProperty:description>
+								<pdfaProperty:name>colprop17</pdfaProperty:name>
+								<pdfaProperty:valueType>Colorant</pdfaProperty:valueType>
+							</rdf:li>
+							<rdf:li rdf:parseType="Resource">
+								<pdfaProperty:category>internal</pdfaProperty:category>
+								<pdfaProperty:description>Desc - Colorant value type</pdfaProperty:description>
+								<pdfaProperty:name>colprop18</pdfaProperty:name>
+								<pdfaProperty:valueType>Colorant</pdfaProperty:valueType>
+							</rdf:li>
+							<rdf:li rdf:parseType="Resource">
+								<pdfaProperty:category>internal</pdfaProperty:category>
+								<pdfaProperty:description>Desc - Colorant value type</pdfaProperty:description>
+								<pdfaProperty:name>colprop19</pdfaProperty:name>
+								<pdfaProperty:valueType>Colorant</pdfaProperty:valueType>
+							</rdf:li>
+							<rdf:li rdf:parseType="Resource">
+								<pdfaProperty:category>internal</pdfaProperty:category>
+								<pdfaProperty:description>Desc - Colorant value type</pdfaProperty:description>
+								<pdfaProperty:name>colprop20</pdfaProperty:name>
+								<pdfaProperty:valueType>Colorant</pdfaProperty:valueType>
+							</rdf:li>
+							<rdf:li rdf:parseType="Resource">
+								<pdfaProperty:category>internal</pdfaProperty:category>
+								<pdfaProperty:description>Desc - Colorant value type</pdfaProperty:description>
+								<pdfaProperty:name>colprop21</pdfaProperty:name>
+								<pdfaProperty:valueType>Colorant</pdfaProperty:valueType>
+							</rdf:li>
+							<rdf:li rdf:parseType="Resource">
+								<pdfaProperty:category>internal</pdfaProperty:category>
+								<pdfaProperty:description>Desc - Colorant value type</pdfaProperty:description>
+								<pdfaProperty:name>colprop22</pdfaProperty:name>
+								<pdfaProperty:valueType>Colorant</pdfaProperty:valueType>
+							</rdf:li>
+							<rdf:li rdf:parseType="Resource">
+								<pdfaProperty:category>internal</pdfaProperty:category>
+								<pdfaProperty:description>Desc - Colorant value type</pdfaProperty:description>
+								<pdfaProperty:name>colprop23</pdfaProperty:name>
+								<pdfaProperty:valueType>Colorant</pdfaProperty:valueType>
+							</rdf:li>
+							<rdf:li rdf:parseType="Resource">
+								<pdfaProperty:category>internal</pdfaProperty:category>
+								<pdfaProperty:description>Desc - Colorant value type</pdfaProperty:description>
+								<pdfaProperty:name>colprop24</pdfaProperty:name>
+								<pdfaProperty:valueType>Colorant</pdfaProperty:valueType>
+							</rdf:li>
+							<rdf:li rdf:parseType="Resource">
+								<pdfaProperty:category>internal</pdfaProperty:category>
+								<pdfaProperty:description>Desc - Colorant value type</pdfaProperty:description>
+								<pdfaProperty:name>colprop25</pdfaProperty:name>
+								<pdfaProperty:valueType>Colorant</pdfaProperty:valueType>
+							</rdf:li>
+							<rdf:li rdf:parseType="Resource">
+								<pdfaProperty:category>internal</pdfaProperty:category>
+								<pdfaProperty:description>Desc - Colorant value type</pdfaProperty:description>
+								<pdfaProperty:name>colprop26</pdfaProperty:name>
+								<pdfaProperty:valueType>Colorant</pdfaProperty:valueType>
 							</rdf:li>							
 						</rdf:Seq>
 					</pdfaSchema:property>
@@ -166,7 +304,100 @@
 			<xapG:L>-125</xapG:L>
 			<xapG:A>127</xapG:A>
 			<xapG:B>0.356</xapG:B>
-		</fs:colprop15>			
+		</fs:colprop15>	
+		<fs:colprop16 rdf:parseType="Resource">
+			<xapG:swatchName>Some name of the swatch</xapG:swatchName>
+			<xapG:mode>CMYK</xapG:mode>
+			<xapG:type>PROCESS</xapG:type>
+			<xapG:cyan>-0.1</xapG:cyan>
+			<xapG:magenta>0.9999999901</xapG:magenta>
+			<xapG:yellow>52.0</xapG:yellow>
+			<xapG:black>52.4562</xapG:black>
+		</fs:colprop16>		
+		<fs:colprop17 rdf:parseType="Resource">
+			<xapG:swatchName>Some name of the swatch</xapG:swatchName>
+			<xapG:mode>CMYK</xapG:mode>
+			<xapG:type>PROCESS</xapG:type>
+			<xapG:cyan>-0.1</xapG:cyan>
+			<xapG:magenta>0.9999999901</xapG:magenta>
+			<xapG:yellow>52.0</xapG:yellow>
+			<xapG:black>52.4562</xapG:black>
+		</fs:colprop17>	
+		<fs:colprop18 rdf:parseType="Resource">
+			<xapG:swatchName>Some name of the swatch</xapG:swatchName>
+			<xapG:mode>CMYK</xapG:mode>
+			<xapG:type>PROCESS</xapG:type>
+			<xapG:cyan>0.1</xapG:cyan>
+			<xapG:magenta>100.9999999901</xapG:magenta>
+			<xapG:yellow>52.0</xapG:yellow>
+			<xapG:black>52.4562</xapG:black>
+		</fs:colprop18>	
+		<fs:colprop19 rdf:parseType="Resource">
+			<xapG:swatchName>Some name of the swatch</xapG:swatchName>
+			<xapG:mode>CMYK</xapG:mode>
+			<xapG:type>PROCESS</xapG:type>
+			<xapG:cyan>0.1</xapG:cyan>
+			<xapG:magenta>0.9999999901</xapG:magenta>
+			<xapG:yellow>-52.0</xapG:yellow>
+			<xapG:black>52.4562</xapG:black>
+		</fs:colprop19>	
+		<fs:colprop20 rdf:parseType="Resource">
+			<xapG:swatchName>Some name of the swatch</xapG:swatchName>
+			<xapG:mode>CMYK</xapG:mode>
+			<xapG:type>PROCESS</xapG:type>
+			<xapG:cyan>0.1</xapG:cyan>
+			<xapG:magenta>0.9999999901</xapG:magenta>
+			<xapG:yellow>52.2</xapG:yellow>
+			<xapG:black>152.4562</xapG:black>
+		</fs:colprop20>	
+		<fs:colprop21 rdf:parseType="Resource">
+			<xapG:swatchName>Some swatch name RGB</xapG:swatchName>
+			<xapG:mode>RGB</xapG:mode>
+			<xapG:type>SPOT</xapG:type>
+			<xapG:red>300</xapG:red>
+			<xapG:green>128</xapG:green>
+			<xapG:blue>some value</xapG:blue>
+		</fs:colprop21>	
+		<fs:colprop22 rdf:parseType="Resource">
+			<xapG:swatchName>Some swatch name RGB</xapG:swatchName>
+			<xapG:mode>RGB</xapG:mode>
+			<xapG:type>SPOT</xapG:type>
+			<xapG:red>234</xapG:red>
+			<xapG:green>-128</xapG:green>
+			<xapG:blue>some value</xapG:blue>
+		</fs:colprop22>	
+		<fs:colprop23 rdf:parseType="Resource">
+			<xapG:swatchName>Some swatch name RGB</xapG:swatchName>
+			<xapG:mode>RGB</xapG:mode>
+			<xapG:type>SPOT</xapG:type>
+			<xapG:red>234</xapG:red>
+			<xapG:green>128</xapG:green>
+			<xapG:blue>1200</xapG:blue>
+		</fs:colprop23>	
+		<fs:colprop24 rdf:parseType="Resource">
+			<xapG:swatchName>Some swatch name LAB</xapG:swatchName>
+			<xapG:mode>LAB</xapG:mode>
+			<xapG:type>PROCESS</xapG:type>
+			<xapG:L>125.0</xapG:L>
+			<xapG:A>127</xapG:A>
+			<xapG:B>0</xapG:B>
+		</fs:colprop24>	
+		<fs:colprop25 rdf:parseType="Resource">
+			<xapG:swatchName>Some swatch name LAB</xapG:swatchName>
+			<xapG:mode>LAB</xapG:mode>
+			<xapG:type>PROCESS</xapG:type>
+			<xapG:L>-125</xapG:L>
+			<xapG:A>-227</xapG:A>
+			<xapG:B>0</xapG:B>
+		</fs:colprop25>	
+		<fs:colprop26 rdf:parseType="Resource">
+			<xapG:swatchName>Some swatch name LAB</xapG:swatchName>
+			<xapG:mode>LAB</xapG:mode>
+			<xapG:type>PROCESS</xapG:type>
+			<xapG:L>-125</xapG:L>
+			<xapG:A>127</xapG:A>
+			<xapG:B>+3000</xapG:B>
+		</fs:colprop26>			
 	</rdf:Description>
   </rdf:RDF>
 </x:xmpmeta>
