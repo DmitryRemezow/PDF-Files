@@ -13,39 +13,63 @@
 						<rdf:Seq>
 							<rdf:li rdf:parseType="Resource">
 								<pdfaProperty:category>internal</pdfaProperty:category>
-								<pdfaProperty:description>Desc - Rational value type</pdfaProperty:description>
-								<pdfaProperty:name>rtnlprop1</pdfaProperty:name>
-								<pdfaProperty:valueType>Rational</pdfaProperty:valueType>
+								<pdfaProperty:description>Desc - Timecode value type</pdfaProperty:description>
+								<pdfaProperty:name>timecodeprop1</pdfaProperty:name>
+								<pdfaProperty:valueType>Timecode</pdfaProperty:valueType>
 							</rdf:li>
 							<rdf:li rdf:parseType="Resource">
 								<pdfaProperty:category>internal</pdfaProperty:category>
-								<pdfaProperty:description>Desc - Rational value type</pdfaProperty:description>
-								<pdfaProperty:name>rtnlprop2</pdfaProperty:name>
-								<pdfaProperty:valueType>Rational</pdfaProperty:valueType>
+								<pdfaProperty:description>Desc - Timecode value type</pdfaProperty:description>
+								<pdfaProperty:name>timecodeprop2</pdfaProperty:name>
+								<pdfaProperty:valueType>Timecode</pdfaProperty:valueType>
 							</rdf:li>
 							<rdf:li rdf:parseType="Resource">
 								<pdfaProperty:category>internal</pdfaProperty:category>
-								<pdfaProperty:description>Desc - Rational value type</pdfaProperty:description>
-								<pdfaProperty:name>rtnlprop3</pdfaProperty:name>
-								<pdfaProperty:valueType>Rational</pdfaProperty:valueType>
-							</rdf:li>		
-							<rdf:li rdf:parseType="Resource">
-								<pdfaProperty:category>internal</pdfaProperty:category>
-								<pdfaProperty:description>Desc - Rational value type</pdfaProperty:description>
-								<pdfaProperty:name>rtnlprop4</pdfaProperty:name>
-								<pdfaProperty:valueType>Rational</pdfaProperty:valueType>
+								<pdfaProperty:description>Desc - Timecode value type</pdfaProperty:description>
+								<pdfaProperty:name>timecodeprop3</pdfaProperty:name>
+								<pdfaProperty:valueType>Timecode</pdfaProperty:valueType>
 							</rdf:li>
 							<rdf:li rdf:parseType="Resource">
 								<pdfaProperty:category>internal</pdfaProperty:category>
-								<pdfaProperty:description>Desc - Rational value type</pdfaProperty:description>
-								<pdfaProperty:name>rtnlprop5</pdfaProperty:name>
-								<pdfaProperty:valueType>Rational</pdfaProperty:valueType>
+								<pdfaProperty:description>Desc - Timecode value type</pdfaProperty:description>
+								<pdfaProperty:name>timecodeprop4</pdfaProperty:name>
+								<pdfaProperty:valueType>Timecode</pdfaProperty:valueType>
 							</rdf:li>
 							<rdf:li rdf:parseType="Resource">
 								<pdfaProperty:category>internal</pdfaProperty:category>
-								<pdfaProperty:description>Desc - Rational value type</pdfaProperty:description>
-								<pdfaProperty:name>rtnlprop6</pdfaProperty:name>
-								<pdfaProperty:valueType>Rational</pdfaProperty:valueType>
+								<pdfaProperty:description>Desc - Timecode value type</pdfaProperty:description>
+								<pdfaProperty:name>timecodeprop5</pdfaProperty:name>
+								<pdfaProperty:valueType>Timecode</pdfaProperty:valueType>
+							</rdf:li>
+							<rdf:li rdf:parseType="Resource">
+								<pdfaProperty:category>internal</pdfaProperty:category>
+								<pdfaProperty:description>Desc - Timecode value type</pdfaProperty:description>
+								<pdfaProperty:name>timecodeprop6</pdfaProperty:name>
+								<pdfaProperty:valueType>Timecode</pdfaProperty:valueType>
+							</rdf:li>
+							<rdf:li rdf:parseType="Resource">
+								<pdfaProperty:category>internal</pdfaProperty:category>
+								<pdfaProperty:description>Desc - Timecode value type</pdfaProperty:description>
+								<pdfaProperty:name>timecodeprop7</pdfaProperty:name>
+								<pdfaProperty:valueType>Timecode</pdfaProperty:valueType>
+							</rdf:li>
+							<rdf:li rdf:parseType="Resource">
+								<pdfaProperty:category>internal</pdfaProperty:category>
+								<pdfaProperty:description>Desc - Timecode value type</pdfaProperty:description>
+								<pdfaProperty:name>timecodeprop8</pdfaProperty:name>
+								<pdfaProperty:valueType>Timecode</pdfaProperty:valueType>
+							</rdf:li>
+							<rdf:li rdf:parseType="Resource">
+								<pdfaProperty:category>internal</pdfaProperty:category>
+								<pdfaProperty:description>Desc - Timecode value type</pdfaProperty:description>
+								<pdfaProperty:name>timecodeprop9</pdfaProperty:name>
+								<pdfaProperty:valueType>Timecode</pdfaProperty:valueType>
+							</rdf:li>
+							<rdf:li rdf:parseType="Resource">
+								<pdfaProperty:category>internal</pdfaProperty:category>
+								<pdfaProperty:description>Desc - Timecode value type</pdfaProperty:description>
+								<pdfaProperty:name>timecodeprop10</pdfaProperty:name>
+								<pdfaProperty:valueType>Timecode</pdfaProperty:valueType>
 							</rdf:li>							
 						</rdf:Seq>
 					</pdfaSchema:property>
@@ -53,13 +77,39 @@
 			</rdf:Bag>
 		</pdfaExtension:schemas>
 	</rdf:Description>
-	<rdf:Description rdf:about="" xmlns:fs="http://www.999.org/" xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#" xmlns:xapGImg="http://ns.adobe.com/xap/1.0/g/img/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:stVer="http://ns.adobe.com/xap/1.0/sType/Version#" xmlns:stRational="http://ns.adobe.com/xap/1.0/sType/Rational#" xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/">
-		<fs:rtnlprop1>0/25.23</fs:rtnlprop1>
-		<fs:rtnlprop2>+12a35/23</fs:rtnlprop2>
-		<fs:rtnlprop3>-365:8951321</fs:rtnlprop3>		
-		<fs:rtnlprop4>(365+1)/8951321</fs:rtnlprop4>		
-		<fs:rtnlprop5>A/B</fs:rtnlprop5>		
-		<fs:rtnlprop6>0/SomeValue</fs:rtnlprop6>			
+	<rdf:Description rdf:about="" xmlns:fs="http://www.999.org/" xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#" xmlns:xapGImg="http://ns.adobe.com/xap/1.0/g/img/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:stVer="http://ns.adobe.com/xap/1.0/sType/Version#" xmlns:stTimecode="http://ns.adobe.com/xap/1.0/sType/Timecode#" xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/">
+		<fs:timecodeprop1 rdf:parseType="Resource">
+			<xmpDM:timeValue>00:00:00:00</xmpDM:timeValue>
+			<xmpDM:timeFormat>24Timecode </xmpDM:timeFormat>
+		</fs:timecodeprop1>
+		<fs:timecodeprop2 rdf:parseType="Resource">
+			<xmpDM:timeValue>00:00:00:00</xmpDM:timeValue>
+			<xmpDM:timeFormat>26Timecode</xmpDM:timeFormat>
+		</fs:timecodeprop2>
+		<fs:timecodeprop3 rdf:parseType="Resource">
+			<xmpDM:timeValue>00;00;11;07</xmpDM:timeValue>
+			<xmpDM:timeFormat>2997 DropTimecode</xmpDM:timeFormat>
+		</fs:timecodeprop3>
+		<fs:timecodeprop4 rdf:parseType="Resource">
+			<xmpDM:timeValue>00;00;11;07</xmpDM:timeValue>
+			<xmpDM:timeFormat>2997NonDropTimecode</xmpDM:timeFormat>
+		</fs:timecodeprop4>
+		<fs:timecodeprop5 rdf:parseType="Resource">
+			<xmpDM:timeValue>some time value</xmpDM:timeValue>
+			<xmpDM:timeFormat>30Timecode</xmpDM:timeFormat>
+		</fs:timecodeprop5>
+		<fs:timecodeprop6 rdf:parseType="Resource">
+			<xmpDM:timeValue>
+				<rdf:Seq>
+					<rdf:li>00:00:00:00</rdf:li>
+				</rdf:Seq>
+			</xmpDM:timeValue>
+			<xmpDM:timeFormat>50Timecode</xmpDM:timeFormat>
+		</fs:timecodeprop6>
+		<fs:timecodeprop7 rdf:parseType="Resource">
+			<xmpDM:timeValue>00:00:00:00</xmpDM:timeValue>
+			<xmpDM:timeFormat>1994DropTimecode</xmpDM:timeFormat>
+		</fs:timecodeprop7>
 	</rdf:Description>
   </rdf:RDF>
 </x:xmpmeta>
