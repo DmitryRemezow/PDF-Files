@@ -51,11 +51,11 @@
 			</stDim:h>
 			<stDim:unit>inch</stDim:unit>
 		</fs:dimprop2>		
-		<fs:dimprop1 rdf:parseType="Resource">
+		<fs:dimprop3 rdf:parseType="Resource">
 			<stDim:w>+256.0</stDim:w>
 			<stDim:h>-324.0</stDim:h>
 			<stDim:unit>mm</stDim:unit>
-		</fs:dimprop1>
+		</fs:dimprop3>
 	</rdf:Description>
   </rdf:RDF>
 </x:xmpmeta>

@@ -65,8 +65,8 @@
 			</rdf:Bag>				
 		</fs:langprop4>		
 		<fs:langprop5 rdf:parseType="Resource">
-			<rdf:something xml:lang="de">SomeLangText</rdf:something>
-			<rdf:something xml:lang="fr-fr">SomeLangText</rdf:something>			
+			<rdf:something1 xml:lang="de">SomeLangText</rdf:something1>
+			<rdf:something2 xml:lang="fr-fr">SomeLangText</rdf:something2>			
 		</fs:langprop5>				
 	</rdf:Description>
   </rdf:RDF>
